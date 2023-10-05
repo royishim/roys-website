@@ -1,0 +1,39 @@
+p{
+    font-size: 40px;
+    text-align: center;
+ }
+h1{
+    color: rgb(7, 11, 11);
+    font-size: 100px;
+    text-align: center;
+}
+body {
+    background-color: #00b7ff;
+    font-family: 'Playball', cursive;
+    letter-spacing: 5px;
+    text-align: center;
+}
+#photo1{
+    width:50%;
+}
+#photo2{
+    width:600px;
+    height: 380px;
+    border-left: 30px groove black;
+    border-right: 30px groove black;
+    border-bottom: 30px groove black;
+    border-top: 30px groove black;
+}
+#link{
+    font-size: 100px;
+    text-align: center;
+}
+li{
+    font-size: x-large;
+    text-align: center;
+}
+ol{
+    text-align: center;
+    list-style-position: inside;
+    list-style-type: circle;
+}
